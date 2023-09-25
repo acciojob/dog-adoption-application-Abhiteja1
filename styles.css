@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+.container{
+	background-color:#e4c1f9;
+	display:inline-flex;
+	padding:20px;
+	color:#003049;
+	font-family: 'Quicksand', sans-serif;
+	border-radius:10px;
+	
+	
+}
